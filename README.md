@@ -16,7 +16,7 @@
 
         rel="stylesheet">
 
-    <title>kayanaryelflix</title>
+    <title>Ruanflixflix</title>
 
 </head>
 
@@ -24,7 +24,7 @@
 
 <body>
 
-    <header>kayanaryelFLIX</header>
+    <header>RuanflixFLIX</header>
 
 
 
